@@ -209,7 +209,7 @@ top: 0;
   font-size: 40px;
   color: #461111;
   font-family: 'Readex Pro', sans-serif;
-  position: absolute;
+  position: fixed;
   left: 6px;
   top: 0;
 
